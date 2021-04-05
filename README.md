@@ -14,17 +14,12 @@ btnForTheme.addEventListener('click', function () {
 
 ```
 
-### Light Theme
-> ![This is a alt text.](/SS-result/Screenshot_2021-04-05_11-30-37.png "wiwa_SS-1")
-
-### Dark Theme
-> ![This is a alt text.](/SS-result/Screenshot_2021-04-05_11-11-40.png "wiwa_SS-2")
+### Light Theme & Dark Theme
+> ![This is a alt text.](/SS-result/SS_wiwa-1.png "wiwa_SS-1")
+  ![This is a alt text.](/SS-result/SS_wiwa-2.png "wiwa_SS-2")
  
-### Light Theme
-> ![This is a alt text.](/SS-result/Screenshot_2021-04-05_11-26-40.png "wiwa_SS-3")
-
-### Dark Theme
-> ![This is a alt text.](/SS-result/Screenshot_2021-04-05_11-26-48.png "wiwa_SS-4")
+> ![This is a alt text.](/SS-result/SS_wiwa-3.png "wiwa_SS-3")
+  ![This is a alt text.](/SS-result/SS_wiwa-4.png "wiwa_SS-4")
 
 
 And here for design card, my inspiration from [dribbble](https://cdn.dribbble.com/users/354067/screenshots/15376603/media/b66ac15cb601e4c233d9ce6ef37cff0f.jpg). 
