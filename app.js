@@ -1,8 +1,7 @@
-const btnIcon = document.getElementById('lightbtn');
-const defaultBackground = document.getElementById('hero');
+const btnForTheme = document.getElementById('lightbtn');
 
 // console.log(defaultBtn, defaultBackground);
 
-btnIcon.addEventListener('click', function () {
+btnForTheme.addEventListener('click', function () {
   document.body.classList.toggle('dark-theme');
 });
